@@ -1,0 +1,6 @@
+data/processed/
+outputs/
+powerbi/*.pbix
+.ipynb_checkpoints/
+.DS_Store
+data/raw/
